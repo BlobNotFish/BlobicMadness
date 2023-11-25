@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 125,
+  "group": "blobium",
+  "ingredient": {
+    "item": "blobm:uncooked_blobium_ingot"
+  },
+  "result": "blobm:blobium_ingot"
+}
